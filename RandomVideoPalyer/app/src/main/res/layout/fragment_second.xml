@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        style="@style/Widget.Material3.Button.IconButton.Filled"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:accessibilityLiveRegion="polite"
+        android:background="@color/white"
+        android:backgroundTint="@color/black"
+
+        android:text="Play Now"
+        android:visibility="visible"
+        app:icon="@android:drawable/ic_media_play"
+        app:strokeColor="#3949AB" />
+</androidx.core.widget.NestedScrollView>
