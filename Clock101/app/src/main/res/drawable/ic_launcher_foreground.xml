@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background Circle -->
+    <path
+        android:pathData="M54,54m-45,0a45,45 0,1 1,90 0a45,45 0,1 1,-90 0"
+        android:fillColor="#000000"/>
+
+    <!-- Main Icon - ChatGPT-style Logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="nonZero"
+        android:pathData="M45,35h28c1.1,0,2-0.9,2-2s-0.9-2-2-2H40c-1.1,0-2,0.9-2,2S38.9,35,40,35z M40,47h28c1.1,0,2-0.9,2-2s-0.9-2-2-2H40c-1.1,0-2,0.9-2,2S38.9,47,40,47z M40,59h17c1.1,0,2-0.9,2-2s-0.9-2-2-2H40c-1.1,0-2,0.9-2,2S38.9,59,40,30z"
+        android:strokeWidth="100"
+        android:strokeColor="#0000" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="nonZero"
+        android:pathData="M25,35h28c1.1,0,2-0.9,2-2s-0.9-2-2-2H40c-1.1,0-2,0.9-2,2S38.9,35,40,35z M40,47h28c1.1,0,2-0.9,2-2s-0.9-2-2-2H40c-1.1,0-2,0.9-2,2S38.9,47,40,47z M40,59h17c1.1,0,2-0.9,2-2s-0.9-2-2-2H40c-1.1,0-2,0.9-2,2S38.9,59,40,90z"
+        android:strokeWidth="100"
+        android:strokeColor="#00000000" />
+
+
+</vector>
